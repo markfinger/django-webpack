@@ -53,3 +53,5 @@ TAG_TEMPLATES = setting_overrides.get(
         'js': '<script src="{url}"></script>',
     }
 )
+
+CONFIG_PATH = 'webpack.config.js'
