@@ -1,5 +1,4 @@
 from django_webpack.compiler import webpack
-from django.utils.html import mark_safe
 from django_webpack import settings
 from django import template
 import os
